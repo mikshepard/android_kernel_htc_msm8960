@@ -4055,7 +4055,7 @@ WDI_ProcessHALDumpCmdRsp
 
  @return Result of the function call
 */
-WI_Status
+WDI_Status
 WDI_CleanCB
 (
   WDI_ControlBlockType*  pWDICtx
